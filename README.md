@@ -38,7 +38,7 @@ docker info
 
 ```
 cd %USERPROFILE%
-git clone https://github.com/YOUR-USERNAME/multi-container-app.git
+git clone https://github.com/A4vind/multi-container-app.git
 cd multi-container-app
 ```
 
